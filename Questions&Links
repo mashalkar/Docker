@@ -1,0 +1,7 @@
+https://www.guru99.com/docker-interview-questions.html
+
+
+[What are the possible states for a docker container?](https://stackoverflow.com/questions/32427684/what-are-the-possible-states-for-a-docker-container)
+[difference-between-cmd-and-entrypoint-in-a-dockerfile](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile#:~:text=In%20a%20nutshell%3A,be%20added%20after%20ENTRYPOINT%20parameters.)
+[What is the difference between ADD and COPY in Dockerfile](https://stackoverflow.com/a/26125419)
+
